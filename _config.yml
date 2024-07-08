@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Mengzhen（贾梦真）"
+title                    : "Jia Mengzhen"
 title_separator          : "-"
 name                     : &name "Jia Mengzhen"
 description              : &description "personal description"
@@ -109,7 +109,7 @@ author:
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JiaMandy2021"
   vine             :
   weibo            :
   xing             :
