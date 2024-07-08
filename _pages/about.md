@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 计算社会学、大语言模型、人工智能与社会
+title: Jia Mengzhen
 excerpt: "关于我"
 author_profile: true
 redirect_from: 
