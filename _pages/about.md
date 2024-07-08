@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Hi, welcome. I am a  PhD student  based in China. I am studying computational social science in the** [Sun Yat-sen University](https://www.sysu.edu.cn/) **in Guangzhou.**
+**Hi, welcome. I am a    based in China. I am studying computational social science in the** 
+I'm a second year PhD student student from [School of Sociology & Anthropology Sun Yat-sen University](https://ssa.sysu.edu.cn/),[Sun Yat-sen University](https://www.sysu.edu.cn/). My research interest includes computational social science, large language models, artificial intelligence&society.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](jiamengzhen1997@gmail.com) / [Github](https://github.com/MengzhenJia) / [Wechat](../images/wechat.jpg) 
+
 
 ## 教育背景：
 
