@@ -13,21 +13,17 @@ I'm a second year PhD student student from [School of Sociology & Anthropology S
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](jiamengzhen1997@gmail.com) / [Github](https://github.com/MengzhenJia) / [Wechat](../images/wechat.jpg) 
+[Email](jiamengzhen1997@gmail.com) / [Github] / [Wechat](../images/wechat.jpg) 
 
 
 ## 教育背景：
 
-2015-2019 中南大学公共管理学院 社会学 学士学位
 
-2019-2022 中山大学社会学与人类学学院 社会学 硕士学位
-
-2022-至今  中山大学社会学与人类学学院 社会学 博士生
 
 
 ## 研究方向：
+计算社会学
 
-计算社会学、人工智能与社会
 
 
 
